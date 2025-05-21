@@ -12,7 +12,7 @@
   <a href="https://github.com/Fellpsks" target="_blank" rel="noopener noreferrer"> 
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="mailto:felipealvex2803@gmail.com" target="_blank" rel="noopener noreferrer"> 
+  <a href="mailto:felipealvex2711@gmail.com" target="_blank" rel="noopener noreferrer"> 
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
   <a href="https://www.linkedin.com/in/felipexd/" target="_blank" rel="noopener noreferrer">
