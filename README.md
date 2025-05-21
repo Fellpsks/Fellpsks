@@ -1,9 +1,9 @@
-# <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200§ion=header&text=Caio%20Lourenço&fontSize=80&fontAlignY=35&animation=twinkling&desc=Desenvolvedor%20Full%20Stack%20|%20Full%20Stack%20Developer&descAlignY=55&descAlign=50"/>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Caio%20Lourenço&fontSize=80&fontAlignY=35&animation=twinkling&desc=Desenvolvedor%20Full%20Stack%20|%20Full%20Stack%20Developer&descAlignY=55&descAlign=50"/>
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=8A2BE2¢er=true&vCenter=true&width=600&lines=Desenvolvedor+em+Formação;Developer+in+Progress;Always+Learning+%F0%9F%93%9A+Sempre+Aprendendo" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Desenvolvedor+em+Formação;Developer+in+Progress;Always+Learning+%F0%9F%93%9A+Sempre+Aprendendo" alt="Typing SVG" />
 </div>
 
 <br>
@@ -100,20 +100,5 @@
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100§ion=footer&text=Obrigado%20por%20visitar!%20|%20Thanks%20for%20visiting!%20👋&fontSize=20&fontAlignY=35&animation=twinkling"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Obrigado%20por%20visitar!%20|%20Thanks%20for%20visiting!%20👋&fontSize=20&fontAlignY=35&animation=twinkling"/>
 </div>
-
-<!--
-**Fellpsks/Fellpsks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
