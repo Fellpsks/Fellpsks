@@ -73,7 +73,7 @@
         <b>🇧🇷 Português</b>
         <ul align="left">
           <li>✨ Desenvolver um portfólio online moderno e responsivo</li>
-          <li>🚀 Concluir um projeto full-stack completo</li>
+          <li>🚀 Concluir um projeto full-stack</li>
           <li>📚 Aprofundar conhecimentos em Git e GitHub</li>
           <li>🤝 Contribuir ativamente em projetos open-source</li>
           <li>✅ Expandir minha presença no GitHub 💪</li>
